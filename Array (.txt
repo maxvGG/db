@@ -1,0 +1,4 @@
+Array ( 
+    [id] => 137 
+    [0] => 137 
+    [username] => max [1] => max [email] => 1@gmail.com [2] => 1@gmail.com ) Array ( [id] => 138 [0] => 138 [username] => max [1] => max [email] => 1@gmail.com [2] => 1@gmail.com ) Array ( [id] => 139 [0] => 139 [username] => max [1] => max [email] => 1@gmail.com [2] => 1@gmail.com ) Array ( [id] => 140 [0] => 140 [username] => max [1] => max [email] => 1@gmail.com [2] => 1@gmail.com )
