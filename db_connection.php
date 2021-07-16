@@ -9,15 +9,6 @@ class Db_connection {
     protected $conn;
     protected static $pdo;
 
-
-    // protected function connect(){
-    //     $this->conn = new mysqli($this->host,$this->user, $this->password,$this->db);
-
-    //     if($this->conn->connect_error) {
-    //         die("Connection failed");
-    //     }
-    //     return $this->conn;
-    // }
     public function connection(){
         if(!isset(self::$pdo)) {
 
