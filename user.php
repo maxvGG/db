@@ -59,16 +59,7 @@ class User extends Db_connection {
                         exit;
                     }
                     echo '<tr>';
-                    // foreach($results as $result){
-                    //     if($i > 1){
-                    //         $i = 0;
-                    //     }
-                    //     echo '<td>'. $result[$i] . '<td>';
-                    //     var_dump($result);
-                    //     $i++;
-                    // }
                     foreach($results as $result){                                       
-                        
                         if($i > 2){
                             $i = 0;
                             echo '</tr>';
